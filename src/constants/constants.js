@@ -32,7 +32,7 @@ export const projects = [
 	{
 		title: "Na Medida Atelie",
 		description:
-			"Projeto final desenvolvido como Capstone do M3 no curso de Desenvolvimento Full Stack da Kenzie Academy Brasil. E-commerce de roupas sob-medida.",
+			"Projeto desenvolvido como Capstone do Módulo 3 de front end no curso de Desenvolvimento Full Stack da Kenzie Academy Brasil. E-commerce de roupas sob-medida.",
 		image: "/images/sobmedida.png",
 		tags: ["React", "Context API", "Chakra UI", "Framer Motion"],
 		source: "https://github.com/RaquelCAndrade/na-medida-atelie",

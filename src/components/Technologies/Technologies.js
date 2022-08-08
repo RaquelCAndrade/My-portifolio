@@ -21,7 +21,7 @@ const Technologies = () => (
 		<SectionTitle>Tecnologias</SectionTitle>
 		<SectionText>
 			Na primeira parte do curso de Desenvolvimento Web Full Stack da
-			Kenzie Academy Brasil aprendi uma variedade de tecologias voltadas
+			Kenzie Academy Brasil aprendi uma variedade de tecnologias voltadas
 			para Front-End. Atualmente, estou estudando as tecnologias de
 			Back-End mais requisitadas pelo mercado.
 		</SectionText>
